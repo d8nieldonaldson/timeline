@@ -1,0 +1,39 @@
+/* theme */
+
+div.module-container{
+
+}
+
+ul.timeline{
+
+}
+
+li.show-container{
+  height: 60px;
+}
+
+header.show-header{
+
+  width: 100px;
+  height: inherit;
+  border: 1px solid rgb(12,12,12);
+  background-color: rgba(35,35,35,0.74);
+
+}
+
+ul.segment-list{
+
+}
+
+li.segment{
+  width: 100px;
+  height: 40px;
+  background-color: rgba(255,0,0,0.88);
+  border: 1px solid rgb(235,235,235);
+
+  &.closed{
+    border-width: 0px;
+
+  }
+
+}
